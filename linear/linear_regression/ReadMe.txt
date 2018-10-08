@@ -1,5 +1,5 @@
 @Author : JennyChen
-@time : 2108-9-21
+@time : 2018-9-21
 @project : linearning regression which is teached by udacity teacher , you can find the link here :https://www.bilibili.com/video/av8278665?p=3
 @WIDo : what I did in this project is learning the mathmatic code of gradient decent and linear regression, and practice this theory by a small demo.
 @part : There are 2 parts, 
