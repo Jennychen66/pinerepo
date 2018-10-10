@@ -5,4 +5,4 @@
 @part : There are 2 parts, 
     example_data.csv is created by random_number.py, you may take care of the first line of the data is the name of each line, you have to ignore it when doing the computeMSE, otherwise the output of the computeMSE would be nan,I tried a long time  to find the root cause.
     linear_regression.py is the demo to using the data from example_data.csvto predict a model parameter using gradient decent and output the MSE of themodel after the training.
-Gradient Descent : 
+
